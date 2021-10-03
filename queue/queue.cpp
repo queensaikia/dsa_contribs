@@ -1,3 +1,4 @@
+// Thanks to techie delight for the code
 #include <iostream>
 #include <cstdlib>
 using namespace std;
